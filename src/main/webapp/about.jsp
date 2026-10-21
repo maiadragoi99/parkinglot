@@ -10,9 +10,5 @@
 <%@taglib prefix="t" tagdir="/WEB-INF/tags" %>
 <t:pageTemplate pageTitle="About Parking Lot">
     <h1>About Parking Lot</h1>
+    <p>This application is used to manage a parking lot.</p>
 </t:pageTemplate>
-<p>This application is used to manage a parking lot.</p>
-  </body>
-</html>
-
-<
