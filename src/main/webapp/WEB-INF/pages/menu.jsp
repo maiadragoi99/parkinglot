@@ -43,7 +43,6 @@
     </div>
   </nav>
 </header>
-
 <footer class="container">
   <p class="float-end">
     <a href="#">Back to top</a>
